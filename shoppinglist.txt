@@ -6,3 +6,6 @@ potato
 eggs
 water
 cereal
+yogurt
+cucumber
+raddish

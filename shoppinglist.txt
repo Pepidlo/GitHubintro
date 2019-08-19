@@ -9,4 +9,4 @@ cereal
 yogurt
 cucumber
 raddish
-walnuts
+English walnuts
